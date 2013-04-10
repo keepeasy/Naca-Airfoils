@@ -1,0 +1,16 @@
+NACA_Project
+------------
+
+Applicativo ideato e realizzato da Mattia Tristo.
+
+Crea file di script per Autodesk/Autocad e Dassault/Draftsight con 4 spline (linea media, bordo superiore, bordo inferiore, array di chiusura) a partire dalle 4 cifre di un profilo  NACA.
+
+Distribuito con licenza opensource GNU/GPL v3.0 e codice sorgente : Naca_Project_src.rbp per RealStudio della RealSoftware.
+
+Disponibile per Mac OS X, Linux, Windows.
+
+
+Per maggiori informazioni scrivi a iam_guscio@libero.it.
+
+Happy Poject
+Mattia
